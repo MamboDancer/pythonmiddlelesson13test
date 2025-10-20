@@ -1,4 +1,4 @@
- # 🐍 MegaCoolApp — The Ultimate Python Project
+ # 🐍 MegaCoolApp — The Ultimate Python Project (Edit from git)
 
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyaXJvZGNnZWJsa2ozcGttcjZmY2FydDBwZWlsNGthbDM0a2cyOGtxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/source.gif)
 
