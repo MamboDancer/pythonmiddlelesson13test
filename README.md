@@ -103,7 +103,7 @@ if __name__ == "__main__":
 
 ## 👨‍💻 Authors
 
-* **Artem Ljukshin** — Founder & Lead Developer
+* **Robo Cat** — Founder & Lead Developer
 * **ChatGPT** — Assistant & README Designer 😎
 
 ---
